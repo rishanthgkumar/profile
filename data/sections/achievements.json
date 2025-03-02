@@ -1,0 +1,154 @@
+{
+    "locales": {
+        "en": {
+            "title": "Awards",
+            "title_menu": "Achievements",
+            "title_long_prefix": "Here are my",
+            "title_long": "Career **Achievements**"
+        },
+        "es": {
+            "title": "Logros",
+            "title_menu": "Logros",
+            "title_long_prefix": "Aquí están mis",
+            "title_long": "**Logros** Profesionales"
+        },
+        "fr": {
+            "title": "Réalisations",
+            "title_menu": "Réalisations",
+            "title_long_prefix": "Voici",
+            "title_long": "Mes **Réalisations**"
+        },
+        "ko": {
+            "title": "경력 성과",
+            "title_menu": "경력 성과",
+            "title_long_prefix": "다음은",
+            "title_long": "**경력 성과**입니다"
+        }
+    },
+    "articles": [
+        {
+            "id": "certifications",
+            "component": "ArticleCards",
+            "config": {},
+            "locales": {
+                "en": { "title": "Certifications" },
+                "es": { "title": "Certificaciones" },
+                "fr": { "title": "Certifications" },
+                "ko": { "title": "인증서" }
+            },
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-shield-alt",
+                        "faColors": {"bg": "#326CE5", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "2024",
+                        "end": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**CompTIA Security+**",
+                            "text": "Earned the globally recognized certification validating core cybersecurity skills."
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-aws",
+                        "faColors": {"bg": "#FFD700", "fill": "#111"}
+                    },
+                    "dates": {
+                        "start": "2024",
+                        "end": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**AWS Certified Solutions Architect Associate**",
+                            "text": "Demonstrated expertise in designing and deploying scalable systems on AWS."
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-code",
+                        "faColors": {"bg": "#FF5733", "fill": "#FFF"}
+                    },
+                    "dates": {
+                        "start": "2025",
+                        "end": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Certified Bug Bounty Hunter**",
+                            "text": "Recognized for expertise in identifying and reporting critical vulnerabilities in diverse systems."
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-hackerrank",
+                        "faColors": {"bg": "#6C757D", "fill": "#FFF"}
+                    },
+                    "dates": {
+                        "start": "2024",
+                        "end": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Hack The Box Certified**",
+                            "text": "Certified for advanced penetration testing and ethical hacking skills through Hack The Box."
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-bug",
+                        "faColors": {"bg": "#28A745", "fill": "#FFF"}
+                    },
+                    "dates": {
+                        "start": "2023",
+                        "end": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**EC-Council OWASP Top 10 Certified**",
+                            "text": "Earned certification for mastering OWASP Top 10 vulnerabilities and secure coding practices."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "awards",
+            "component": "ArticleThread",
+            "config": {},
+            "locales": {
+                "en": { "title": "Awards" },
+                "es": { "title": "Premios" },
+                "fr": { "title": "Récompenses" },
+                "ko": { "title": "수상 내역" }
+            },
+            "items": [
+                {
+                    "dates": {
+                        "start": "2023",
+                        "end": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**1st Place** – Inspira LLM Hacking Competition",
+                            "info": "DFW University",
+                            "text": "Ranked 1st in the 2023 Inspira LLM Hacking Competition by discovering 4 vulnerabilities from the OWASP Top 10 for LLMs."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

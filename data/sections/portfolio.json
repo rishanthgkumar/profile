@@ -1,0 +1,152 @@
+{
+    "locales": {
+        "en": {
+            "title": "Portfolio",
+            "title_long_prefix": "Take a look at",
+            "title_long": "My **Portfolio**"
+        },
+        "es": {
+            "title": "Portafolio",
+            "title_long_prefix": "Explora",
+            "title_long": "Mi **Portafolio**"
+        },
+        "fr": {
+            "title": "Portfolio",
+            "title_long_prefix": "Découvrez",
+            "title_long": "Mon **Portfolio**"
+        },
+        "ko": {
+            "title": "포트폴리오",
+            "title_long_prefix": "이것은 내",
+            "title_long": "**포트폴리오**입니다"
+        }
+    },
+    "articles": [
+        {
+            "id": "portfolio",
+            "component": "ArticlePortfolio",
+            "config": {},
+            "locales": {},
+            "categories": [
+                {
+                    "id": "utilities",
+                    "locales": {
+                        "en": {"singular": "Utility", "plural": "Utilities"},
+                        "es": {"singular": "Utilidad", "plural": "Utilidades"},
+                        "fr": {"singular": "Utilitaire", "plural": "Utilitaires"},
+                        "ko": {"singular": "유틸리티", "plural": "유틸리티들"}
+                    }
+                },
+                {
+                    "id": "apps",
+                    "locales": {
+                        "en": {"singular": "App", "plural": "Apps"},
+                        "es": {"singular": "App", "plural": "Apps"},
+                        "fr": {"singular": "App", "plural": "Apps"},
+                        "ko": {"singular": "앱", "plural": "앱들"}
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "categoryId": "utilities",
+                    "icon": {
+                        "img": "images/pictures/icons8-eye-100.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "links": [],
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Key Logger",
+                            "text": "Developed a key logger for security analysis and monitoring user activity on test systems. Ensured responsible use with ethical safeguards.",
+                            "tags": ["Security", "Monitoring", "Ethical Hacking"]
+                        }
+                    }
+                },
+                {
+                    "categoryId": "utilities",
+                    "icon": {
+                        "img": "images/pictures/Ipsubnetting.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "links": [],
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "IP Subnetting Tool",
+                            "text": "Created a subnetting tool that simplifies IP calculations, providing detailed subnets, network ranges, and broadcast addresses for efficient network planning.",
+                            "tags": ["Networking", "IP Subnetting", "Automation"]
+                        }
+                    }
+                },
+                {
+                    "categoryId": "utilities",
+                    "icon": {
+                        "img": "images/pictures/icons8-virtualbox-64.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "links": [],
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Virtualized Security Lab",
+                            "text": "Configured a lab using VirtualBox, pfSense, and Active Directory to simulate penetration testing and network segmentation. Tools used include Metasploit, Nmap, and Nessus.",
+                            "tags": ["Virtualization", "Penetration Testing", "Networking"]
+                        }
+                    }
+                },
+                {
+                    "categoryId": "apps",
+                    "icon": {
+                        "img": "images/pictures/icons8-code-94.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/your-repo"},
+                        {"faIcon": "fa-brands fa-npm", "href": "https://npmjs.com/your-package"}
+                    ],
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": [
+                                "images/pictures/mapmynet-screenshot-1.png",
+                                "images/pictures/mapmynet-screenshot-2.png"
+                            ]
+                        }
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "MapMyNet",
+                            "text": "A network reconnaissance tool that uses Nmap to scan and provide a graphical representation of open ports and services across devices. The intuitive UI visualizes results for better understanding.",
+                            "tags": ["Nmap", "Networking", "Visualization"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

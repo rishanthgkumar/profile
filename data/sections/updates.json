@@ -1,0 +1,200 @@
+{
+    "locales": {
+        "en": {
+            "title": "Life recently",
+            "title_menu": "Updates",
+            "title_long_prefix": "Take a look at my",
+            "title_long": "Recent **Updates**"
+        },
+        "es": {
+            "title": "Vida Reciente",
+            "title_menu": "Actualizaciones",
+            "title_long_prefix": "Consulta mis",
+            "title_long": "Actualizaciones **Recientes**"
+        },
+        "fr": {
+            "title": "Vie Récente",
+            "title_menu": "Mises à Jour",
+            "title_long_prefix": "Découvrez mes",
+            "title_long": "Dernières **Mises à Jour**"
+        },
+        "ko": {
+            "title": "최근의 삶",
+            "title_menu": "업데이트",
+            "title_long_prefix": "내 최근",
+            "title_long": "**업데이트**를 확인해 보세요"
+        }
+    },
+    "articles": [
+        {
+            "id": "recent_updates",
+            "component": "ArticleThread",
+            "config": {
+                "alignItems": "center" 
+            },
+            "locales": {
+                "en": { "title": "Recent **Updates**" }
+            },
+            "items": [
+                {
+                    "dates": {
+                        "start": "09/01/2020",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "Blockchain Basics",
+                            "text": "Completed Blockchain Basics from the University at Buffalo (Credential ID: 966SY3ZHGASV), exploring foundational concepts in blockchain technology."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "10/01/2020",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "Service-Oriented Architecture",
+                            "text": "Earned a certificate in Service-Oriented Architecture from the University of Alberta (Credential ID: WB48767K6VCU)."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "04/01/2023",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "Python for Cybersecurity",
+                            "text": "Completed Infosec's Python for Cybersecurity course (Credential ID: TVGMET664GF2), learning how to apply Python in penetration testing and automation."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "05/01/2023",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "Studied OWASP Top 10",
+                            "text": "Completed a course on OWASP Top 10 vulnerabilities to strengthen application security expertise."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "01/01/2024",
+                        "end": "01/01/2025"
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "ISC2 Candidate",
+                            "text": "Enrolled as an ISC2 Candidate, working toward advanced certifications in information security."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "04/01/2024",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "SOC Member",
+                            "text": "Joined LetsDefend as a SOC member, focusing on threat monitoring and incident response."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "04/01/2024",
+                        "end": "04/01/2027"
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "CompTIA Security+ ce Certification",
+                            "text": "Achieved the CompTIA Security+ ce Certification, covering network security, digital forensics, and ISO standards."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "10/01/2024",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "Sigma Iota Epsilon Membership",
+                            "text": "Became a member of Sigma Iota Epsilon's Sigma Zeta Chapter, developing skills in leadership, team building, and business management."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "12/01/2024",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "Cyber Operations Graduate",
+                            "text": "Completed a graduate program in Cyber Operations at The University of Dallas, gaining advanced knowledge in cybersecurity practices."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "12/01/2024",
+                        "end": "12/31/2027"
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "AWS Certified Solutions Architect",
+                            "text": "Earned the AWS Certified Solutions Architect credential (ID: b240942a9e56456f8815f0e8d9471ba2) demonstrating expertise in AWS services and cloud security."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "11/01/2024",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "Preparing for OSCP Certification",
+                            "text": "Dedicated time to enhancing penetration testing skills and studying advanced offensive security techniques."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "01/01/2025",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_more", "href": "https://mossnegm.github.io/mosstafolio/#updates" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "Launched my **personal website**!",
+                            "text": "Created a personal website to showcase my projects, share my journey in programming, and provide resources for fellow developers."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

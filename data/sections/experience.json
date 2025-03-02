@@ -1,0 +1,91 @@
+{
+    "locales": {
+        "en": {
+            "title": "Experience",
+            "title_long_prefix": "Summary of my",
+            "title_long": "**Work** Experience"
+        },
+        "es": {
+            "title": "Experiencia",
+            "title_long_prefix": "Resumen de mi",
+            "title_long": "Experiencia **Laboral**"
+        },
+        "fr": {
+            "title": "Expérience",
+            "title_long_prefix": "Résumé de mon",
+            "title_long": "Parcours **Professionnel**"
+        },
+        "ko": {
+            "title": "경험",
+            "title_long_prefix": "이것은 내",
+            "title_long": "**직업적** 경험"
+        }
+    },
+    "articles": [
+        {
+            "id": "work",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/pictures/UDallas_seal.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "01/01/2023",
+                        "end": "present"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**IT Support Engineer**",
+                            "info": "University of Dallas, Irving, TX",
+                            "text": "• Managed IT systems and optimized uptime using SolarWinds and Route53.<br>• Deployed SCCM for automated patch management, ensuring system compliance.<br>• Migrated outdated PKI systems to Entrust PKI, reducing security vulnerabilities.<br>• Implemented NIST-aligned security measures, improving network safety.<br>• Enhanced user authentication protocols with Azure Entra-ID IAM and MFA.<br>• Created SQL queries for compliance reports and certificate lifecycle analysis.<br>• Configured and managed switches/routers for student dorm networks.",
+                            "tags": ["SolarWinds", "Route53", "SCCM", "Entrust PKI", "Azure Entra-ID", "NIST", "SQL"]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/Standarduser.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "05/01/2022",
+                        "end": "03/01/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Cloud Security Specialist**",
+                            "info": "Standarduser Cybersecurity, Denton, TX",
+                            "text": "• Designed and managed secure Azure environments using NSGs, ASGs, and Azure Firewall.<br>• Enhanced cloud IAM policies with Role-Based Access Control (RBAC) and Privileged Identity Management (PIM).<br>• Integrated Azure Sentinel with Splunk for SOC operations and advanced threat analysis.<br>• Authored detailed incident reports and mitigation strategies.<br>• Optimized WAF rules for compliance with NIST and OWASP standards.",
+                            "tags": ["Azure Firewall", "RBAC", "PIM", "Azure Sentinel", "Splunk", "NIST", "OWASP"]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/Standarduser.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "07/01/2021",
+                        "end": "05/01/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Cybersecurity Analyst**",
+                            "info": "Standarduser Cybersecurity, Denton, TX",
+                            "text": "• Monitored and analyzed SIEM events using Splunk and QRadar, improving response efficiency.<br>• Conducted vulnerability assessments with Tenable and Nessus, addressing critical risks.<br>• Developed Python scripts for log parsing, reducing manual analysis time.<br>• Created incident response playbooks based on MITRE ATT&CK, standardizing SOC operations.<br>• Improved intrusion detection accuracy by optimizing SIEM rule sets.",
+                            "tags": ["Splunk", "QRadar", "Nessus", "Tenable", "MITRE ATT&CK", "Python", "Incident Response"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
