@@ -61,17 +61,6 @@
                         "fa": "fa-solid fa-envelope",
                         "faColors": {"bg": null, "fill": null}
                     }
-                },
-                {
-                    "value": "@Github",
-                    "links": [
-                        {"href": "https://www.linkedin.com/in/rishanth-kumar-g-216722182/"}
-                    ],
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-github",
-                        "faColors": {"bg": null, "fill": null}
-                    }
                 }
             ]
         },
@@ -94,16 +83,16 @@
                     },
                     "locales": {
                         "en": {
-                            "text": "<p>A Dynamic Cybersecurity Specialist with <b>over five years</b> of experience in penetration testing, network security, and incident response. Proven track record in enhancing security measures and reducing vulnerabilities.</p><p>Passionate about protecting digital assets and improving cybersecurity maturity for organizations by implementing robust solutions and proactive security strategies.</p><p>I look forward to contributing my expertise <b>to your organization!</b></p>"
+                            "text": "<p>An accomplished Salesforce developer with a 15x certifications in Salesforce having hands-on experience in the Salesforce ecosystem, I've honed my skills in designing, implementing, and optimizing Salesforce solutions tailored to meet the unique needs of diverse clients.</p><p>I look forward to contributing my expertise <b>to your organization!</b></p>"
                         },
                         "es": {
-                            "text": "<p>Soy un Especialista en Ciberseguridad Dinámico con <b>más de cinco años</b> de experiencia en pruebas de penetración, seguridad de red y respuesta a incidentes. Historial comprobado en la mejora de medidas de seguridad y reducción de vulnerabilidades.</p><p>Apasionado por proteger los activos digitales y mejorar la madurez de ciberseguridad de las organizaciones mediante la implementación de soluciones robustas y estrategias de seguridad proactivas.</p><p>¡Espero contribuir con mi experiencia <b>a su organización!</b></p>"
+                            "text": "<p>Un consumado desarrollador de Salesforce con 15 certificaciones en Salesforce y experiencia práctica en el ecosistema de Salesforce, he perfeccionado mis habilidades en el diseño, implementación y optimización de soluciones de Salesforce adaptadas para satisfacer las necesidades únicas de diversos clientes.</p><p>¡Espero poder contribuir con mi experiencia <b>a su organización!</b></p>"
                         },
                         "fr": {
-                            "text": "<p>Je suis un Spécialiste en Cybersécurité Dynamique avec <b>plus de cinq ans</b> d'expérience en tests d'intrusion, sécurité réseau et réponse aux incidents. Historique prouvé dans l'amélioration des mesures de sécurité et la réduction des vulnérabilités.</p><p>Passionné par la protection des actifs numériques et l'amélioration de la maturité en cybersécurité des organisations grâce à des solutions robustes et des stratégies de sécurité proactives.</p><p>Je suis impatient de contribuer avec mon expertise <b>à votre organisation !</b></p>"
+                            "text": "<p>Développeur Salesforce accompli avec 15 certifications Salesforce et une expérience pratique de l'écosystème Salesforce, j'ai perfectionné mes compétences dans la conception, la mise en œuvre et l'optimisation de solutions Salesforce adaptées pour répondre aux besoins uniques de divers clients.</p><p>J'ai hâte d'apporter mon expertise <b>à votre organisation !</b></p>"
                         },
                         "ko": {
-                            "text": "<p>저는 <b>5년 이상의</b> 침투 테스트, 네트워크 보안, 사고 대응 경험을 가진 역동적인 사이버 보안 전문가입니다. 보안 조치를 강화하고 취약성을 줄인 입증된 경력을 보유하고 있습니다.</p><p>디지털 자산 보호와 조직의 사이버 보안 성숙도를 향상시키기 위해 견고한 솔루션 및 사전 예방적 보안 전략을 구현하는 데 열정을 가지고 있습니다.</p><p><b>귀하의 조직</b>에 제 전문성을 기여하기를 기대합니다!</p>"
+                            "text": "<p>Salesforce에서 15x 인증을 취득하고 Salesforce 에코시스템에 대한 실무 경험을 보유한 뛰어난 Salesforce 개발자로서 다양한 고객의 고유한 요구 사항을 충족하도록 맞춤화된 Salesforce 솔루션을 설계, 구현 및 최적화하는 기술을 연마했습니다.</p><p>제 전문 지식을 <b>귀하의 조직에 기여할 수 있기를 기대합니다!</b></p>"
                         }
                     }
                 }
@@ -125,34 +114,6 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-book",
-                        "faColors": null
-                    },
-                    "value": null,
-                    "locales": {
-                        "en": {
-                            "title": "Reading",
-                            "info": "Exploring books across various genres."
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-utensils",
-                        "faColors": null
-                    },
-                    "value": null,
-                    "locales": {
-                        "en": {
-                            "title": "Cooking",
-                            "info": "Experimenting with new recipes and flavors."
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
                         "fa": "fa-solid fa-plane",
                         "faColors": null
                     },
@@ -167,14 +128,28 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-wind",
+                        "fa": "fa-solid fa-code",
                         "faColors": null
                     },
                     "value": null,
                     "locales": {
                         "en": {
-                            "title": "Kite surfing",
-                            "info": "Riding the waves with the power of the wind."
+                            "title": "Problem Solving",
+                            "info": "Brainstorm on the issues and finding the solutions."
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-gamepad-modern",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Gaming",
+                            "info": "Exploring games for fun ( A rare gamer )."
                         }
                     }
                 }
