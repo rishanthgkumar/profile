@@ -40,7 +40,7 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-shield-alt",
+                        "fa": "fa-solid fa-salesforce",
                         "faColors": {"bg": "#326CE5", "fill": "#EEE"}
                     },
                     "dates": {
@@ -49,15 +49,15 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "**CompTIA Security+**",
-                            "text": "Earned the globally recognized certification validating core cybersecurity skills."
+                            "title": "**Salesforce Certified Administrator+**",
+                            "text": "Salesforce Certified Administrator"
                         }
                     }
                 },
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-brands fa-aws",
+                        "fa": "fa-brands fa-salesforce",
                         "faColors": {"bg": "#FFD700", "fill": "#111"}
                     },
                     "dates": {
@@ -66,15 +66,15 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "**AWS Certified Solutions Architect Associate**",
-                            "text": "Demonstrated expertise in designing and deploying scalable systems on AWS."
+                            "title": "**Salesforce Certified Advanced Administrator**",
+                            "text": "Salesforce Certified Advanced Administrator"
                         }
                     }
                 },
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-code",
+                        "fa": "fa-solid fa-salesforce",
                         "faColors": {"bg": "#FF5733", "fill": "#FFF"}
                     },
                     "dates": {
@@ -83,15 +83,15 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "**Certified Bug Bounty Hunter**",
-                            "text": "Recognized for expertise in identifying and reporting critical vulnerabilities in diverse systems."
+                            "title": "**Salesforce Certified Experience Cloud Consultant**",
+                            "text": "Salesforce Certified Experience Cloud Consultant"
                         }
                     }
                 },
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-brands fa-hackerrank",
+                        "fa": "fa-brands fa-salesforce",
                         "faColors": {"bg": "#6C757D", "fill": "#FFF"}
                     },
                     "dates": {
@@ -100,15 +100,15 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "**Hack The Box Certified**",
-                            "text": "Certified for advanced penetration testing and ethical hacking skills through Hack The Box."
+                            "title": "**Salesforce Certified Sales Cloud Consultant**",
+                            "text": "Salesforce Certified Sales Cloud Consultant"
                         }
                     }
                 },
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-bug",
+                        "fa": "fa-solid fa-salesforce",
                         "faColors": {"bg": "#28A745", "fill": "#FFF"}
                     },
                     "dates": {
@@ -117,8 +117,195 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "**EC-Council OWASP Top 10 Certified**",
-                            "text": "Earned certification for mastering OWASP Top 10 vulnerabilities and secure coding practices."
+                            "title": "**Salesforce Certified Service Cloud Consultant**",
+                            "text": "Salesforce Certified Service Cloud Consultant"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-salesforce",
+                        "faColors": {"bg": "#28A745", "fill": "#FFF"}
+                    },
+                    "dates": {
+                        "start": "2023",
+                        "end": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Salesforce Certified CRM Analytics and Einstein Discovery Consultant**",
+                            "text": "Salesforce Certified CRM Analytics and Einstein Discovery Consultant"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-salesforce",
+                        "faColors": {"bg": "#28A745", "fill": "#FFF"}
+                    },
+                    "dates": {
+                        "start": "2023",
+                        "end": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Salesforce Certified Service Cloud Consultant**",
+                            "text": "Salesforce Certified Service Cloud Consultant"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-salesforce",
+                        "faColors": {"bg": "#28A745", "fill": "#FFF"}
+                    },
+                    "dates": {
+                        "start": "2023",
+                        "end": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Salesforce Certified Marketing Cloud Email Specialist**",
+                            "text": "Salesforce Certified Marketing Cloud Email Specialist"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-salesforce",
+                        "faColors": {"bg": "#28A745", "fill": "#FFF"}
+                    },
+                    "dates": {
+                        "start": "2023",
+                        "end": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Salesforce Certified Platform App Builder**",
+                            "text": "Salesforce Certified Platform App Builder"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-salesforce",
+                        "faColors": {"bg": "#28A745", "fill": "#FFF"}
+                    },
+                    "dates": {
+                        "start": "2023",
+                        "end": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Salesforce Certified Platform Developer I**",
+                            "text": "Salesforce Certified Platform Developer I"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-salesforce",
+                        "faColors": {"bg": "#28A745", "fill": "#FFF"}
+                    },
+                    "dates": {
+                        "start": "2023",
+                        "end": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Salesforce Certified Platform Developer II**",
+                            "text": "Salesforce Certified Platform Developer II"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-salesforce",
+                        "faColors": {"bg": "#28A745", "fill": "#FFF"}
+                    },
+                    "dates": {
+                        "start": "2023",
+                        "end": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Salesforce Certified JavaScript Developer I**",
+                            "text": "Salesforce Certified JavaScript Developer I"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-salesforce",
+                        "faColors": {"bg": "#28A745", "fill": "#FFF"}
+                    },
+                    "dates": {
+                        "start": "2023",
+                        "end": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Salesforce Certified Data Architect**",
+                            "text": "Salesforce Certified Data Architect"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-salesforce",
+                        "faColors": {"bg": "#28A745", "fill": "#FFF"}
+                    },
+                    "dates": {
+                        "start": "2023",
+                        "end": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Salesforce Certified Sharing and Visibility Architect**",
+                            "text": "Salesforce Certified Sharing and Visibility Architect"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-salesforce",
+                        "faColors": {"bg": "#28A745", "fill": "#FFF"}
+                    },
+                    "dates": {
+                        "start": "2023",
+                        "end": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Salesforce Certified Application Architect**",
+                            "text": "Salesforce Certified Application Architect"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-salesforce",
+                        "faColors": {"bg": "#28A745", "fill": "#FFF"}
+                    },
+                    "dates": {
+                        "start": "2023",
+                        "end": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Salesforce Certified OmniStudio Developer**",
+                            "text": "Salesforce Certified OmniStudio Developer"
                         }
                     }
                 }
@@ -137,14 +324,27 @@
             "items": [
                 {
                     "dates": {
-                        "start": "2023",
+                        "start": null,
                         "end": null
                     },
                     "locales": {
                         "en": {
-                            "title": "**1st Place** – Inspira LLM Hacking Competition",
-                            "info": "DFW University",
-                            "text": "Ranked 1st in the 2023 Inspira LLM Hacking Competition by discovering 4 vulnerabilities from the OWASP Top 10 for LLMs."
+                            "title": "Salesfocrce Ranger",
+                            "info": "Salesforce Ranger",
+                            "text": "Recognized as a 2X Salesforce Ranger with 230 Badges and a Salesforce Lightning Champion."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": null,
+                        "end": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Superbadges",
+                            "info": "Superbadges",
+                            "text": "Achieved 25X superbadges and still on-going to complete rest of them."
                         }
                     }
                 }
