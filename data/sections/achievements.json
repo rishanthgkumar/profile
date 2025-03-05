@@ -41,7 +41,7 @@
                     "icon": {
                         "img": null,
                         "fa": "fa-solid fa-salesforce",
-                        "faColors": {"bg": "#326CE5", "fill": "#EEE"}
+                        "faColors": {"bg": "#FF5733", "fill": "#FFF"}
                     },
                     "dates": {
                         "start": "2024",
@@ -58,7 +58,7 @@
                     "icon": {
                         "img": null,
                         "fa": "fa-brands fa-salesforce",
-                        "faColors": {"bg": "#FFD700", "fill": "#111"}
+                        "faColors": {"bg": "#6C757D", "fill": "#FFF"}
                     },
                     "dates": {
                         "start": "2024",
@@ -109,7 +109,7 @@
                     "icon": {
                         "img": null,
                         "fa": "fa-solid fa-salesforce",
-                        "faColors": {"bg": "#28A745", "fill": "#FFF"}
+                        "faColors": {"bg": "#FF5733", "fill": "#FFF"}
                     },
                     "dates": {
                         "start": "2023",
@@ -125,8 +125,8 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-salesforce",
-                        "faColors": {"bg": "#28A745", "fill": "#FFF"}
+                        "fa": "fa-brands fa-salesforce",
+                        "faColors": {"bg": "#6C757D", "fill": "#FFF"}
                     },
                     "dates": {
                         "start": "2023",
@@ -142,8 +142,8 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-salesforce",
-                        "faColors": {"bg": "#28A745", "fill": "#FFF"}
+                        "fa": "fa-brands fa-salesforce",
+                        "faColors": {"bg": "#6C757D", "fill": "#FFF"}
                     },
                     "dates": {
                         "start": "2023",
@@ -160,7 +160,7 @@
                     "icon": {
                         "img": null,
                         "fa": "fa-solid fa-salesforce",
-                        "faColors": {"bg": "#28A745", "fill": "#FFF"}
+                        "faColors": {"bg": "#FF5733", "fill": "#FFF"}
                     },
                     "dates": {
                         "start": "2023",
@@ -176,8 +176,8 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-salesforce",
-                        "faColors": {"bg": "#28A745", "fill": "#FFF"}
+                        "fa": "fa-brands fa-salesforce",
+                        "faColors": {"bg": "#6C757D", "fill": "#FFF"}
                     },
                     "dates": {
                         "start": "2023",
@@ -194,7 +194,7 @@
                     "icon": {
                         "img": null,
                         "fa": "fa-solid fa-salesforce",
-                        "faColors": {"bg": "#28A745", "fill": "#FFF"}
+                        "faColors": {"bg": "#FF5733", "fill": "#FFF"}
                     },
                     "dates": {
                         "start": "2023",
@@ -210,8 +210,8 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-salesforce",
-                        "faColors": {"bg": "#28A745", "fill": "#FFF"}
+                        "fa": "fa-brands fa-salesforce",
+                        "faColors": {"bg": "#6C757D", "fill": "#FFF"}
                     },
                     "dates": {
                         "start": "2023",
@@ -228,7 +228,7 @@
                     "icon": {
                         "img": null,
                         "fa": "fa-solid fa-salesforce",
-                        "faColors": {"bg": "#28A745", "fill": "#FFF"}
+                        "faColors": {"bg": "#FF5733", "fill": "#FFF"}
                     },
                     "dates": {
                         "start": "2023",
@@ -244,8 +244,8 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-salesforce",
-                        "faColors": {"bg": "#28A745", "fill": "#FFF"}
+                        "fa": "fa-brands fa-salesforce",
+                        "faColors": {"bg": "#6C757D", "fill": "#FFF"}
                     },
                     "dates": {
                         "start": "2023",
@@ -262,7 +262,7 @@
                     "icon": {
                         "img": null,
                         "fa": "fa-solid fa-salesforce",
-                        "faColors": {"bg": "#28A745", "fill": "#FFF"}
+                        "faColors": {"bg": "#FF5733", "fill": "#FFF"}
                     },
                     "dates": {
                         "start": "2023",
@@ -278,8 +278,8 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-salesforce",
-                        "faColors": {"bg": "#28A745", "fill": "#FFF"}
+                        "fa": "fa-brands fa-salesforce",
+                        "faColors": {"bg": "#6C757D", "fill": "#FFF"}
                     },
                     "dates": {
                         "start": "2023",
@@ -296,7 +296,7 @@
                     "icon": {
                         "img": null,
                         "fa": "fa-solid fa-salesforce",
-                        "faColors": {"bg": "#28A745", "fill": "#FFF"}
+                        "faColors": {"bg": "#FF5733", "fill": "#FFF"}
                     },
                     "dates": {
                         "start": "2023",
