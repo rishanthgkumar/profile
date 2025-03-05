@@ -142,7 +142,7 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-gamepad-modern",
+                        "fa": "fa-solid fa-gamepad",
                         "faColors": null
                     },
                     "value": null,
