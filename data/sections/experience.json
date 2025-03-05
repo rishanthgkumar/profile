@@ -30,58 +30,96 @@
             "items": [
                 {
                     "icon": {
-                        "img": "images/pictures/UDallas_seal.png",
+                        "img": "images/pictures/Albertsons.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "01/01/2023",
+                        "start": "07/03/2024",
                         "end": "present"
                     },
                     "locales": {
                         "en": {
-                            "title": "**IT Support Engineer**",
-                            "info": "University of Dallas, Irving, TX",
-                            "text": "• Managed IT systems and optimized uptime using SolarWinds and Route53.<br>• Deployed SCCM for automated patch management, ensuring system compliance.<br>• Migrated outdated PKI systems to Entrust PKI, reducing security vulnerabilities.<br>• Implemented NIST-aligned security measures, improving network safety.<br>• Enhanced user authentication protocols with Azure Entra-ID IAM and MFA.<br>• Created SQL queries for compliance reports and certificate lifecycle analysis.<br>• Configured and managed switches/routers for student dorm networks.",
-                            "tags": ["SolarWinds", "Route53", "SCCM", "Entrust PKI", "Azure Entra-ID", "NIST", "SQL"]
+                            "title": "**Salesforce Development Lead/ Solution Designer**",
+                            "info": "Albertsons Companies Inc, Plano, TX",
+                            "text": "• Created UI pages using Lightning Web Components (LWC) based on business requirements. Worked extensively with Lightning Web Components, utilizing Decorators, Wire service, Lightning Data Service, Event handling, Lightning Design System, Navigation Service, Salesforce Field Service Lightning, and Einstein Bots.<br>• Implemented SoftPhone Integration outside the Salesforce System using Google Contact Center.<br>• Integrated third-party customer support systems into salesforce using RESTful APIs to centralize service requests and streamline operations.<br>• Implemented the Snowflake integration with the Analytics Studio to pass the data to downstream systems and archiving purposes.",
+                            "tags": ["Service", "API Integrations", "Lightning Web Components", "Aura Components", "Git", "Custom-Objects", "Omni-channel", "Bulk API", "SFDX", "Email-to-Case", "Softphone Integration"]
                         }
                     }
                 },
                 {
                     "icon": {
-                        "img": "images/pictures/Standarduser.png",
+                        "img": "images/pictures/RM.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "05/01/2022",
-                        "end": "03/01/2023"
+                        "start": "09/01/2023",
+                        "end": "04/25/2024"
                     },
                     "locales": {
                         "en": {
-                            "title": "**Cloud Security Specialist**",
-                            "info": "Standarduser Cybersecurity, Denton, TX",
-                            "text": "• Designed and managed secure Azure environments using NSGs, ASGs, and Azure Firewall.<br>• Enhanced cloud IAM policies with Role-Based Access Control (RBAC) and Privileged Identity Management (PIM).<br>• Integrated Azure Sentinel with Splunk for SOC operations and advanced threat analysis.<br>• Authored detailed incident reports and mitigation strategies.<br>• Optimized WAF rules for compliance with NIST and OWASP standards.",
-                            "tags": ["Azure Firewall", "RBAC", "PIM", "Azure Sentinel", "Splunk", "NIST", "OWASP"]
+                            "title": "**Salesforce Development Lead**",
+                            "info": "Reliance Matrix, Schaumburg, IL",
+                            "text": "•• Collaborated with project stakeholders to comprehend business requirements and translate them into technical designs and solutions.<br>• Designed end-to-end Salesforce solutions in alignment with project objectives, emphasizing scalability, performance, and security.<br>• Worked extensively with Lightning Web Components, utilizing Decorators, Wire service, @api, @track, @wire, Lightning Data Service, Event handling, Lightning Design System, Navigation Service, Salesforce Field Service Lightning, and Einstein Bots.",
+                            "tags": ["Sales", "Service", "Apex", "Integration", "Agile", "CPQ", "Workflows"]
                         }
                     }
                 },
                 {
                     "icon": {
-                        "img": "images/pictures/Standarduser.png",
+                        "img": "images/pictures/Deloitte.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "07/01/2021",
-                        "end": "05/01/2022"
+                        "start": "04/01/2020",
+                        "end": "01/07/2023"
                     },
                     "locales": {
                         "en": {
-                            "title": "**Cybersecurity Analyst**",
-                            "info": "Standarduser Cybersecurity, Denton, TX",
-                            "text": "• Monitored and analyzed SIEM events using Splunk and QRadar, improving response efficiency.<br>• Conducted vulnerability assessments with Tenable and Nessus, addressing critical risks.<br>• Developed Python scripts for log parsing, reducing manual analysis time.<br>• Created incident response playbooks based on MITRE ATT&CK, standardizing SOC operations.<br>• Improved intrusion detection accuracy by optimizing SIEM rule sets.",
-                            "tags": ["Splunk", "QRadar", "Nessus", "Tenable", "MITRE ATT&CK", "Python", "Incident Response"]
+                            "title": "**Salesforce Lead**",
+                            "info": "Deloitte Assets & Solutions Group , Hyderabad, India",
+                            "text": "• Applied hands-on experience in implementing Omnistudio features to swiftly develop forms aligned with business requirements.<br>• Utilized Decision Matrix to analyze customer inputs and determine outcomes effectively.<br>• Enhanced pages using standard features like Actionable Relationship Center and Action Plans, among others.<br>• Implemented various advanced fields and setup SSO with SAML 2.0 for integration with internal and third-party applications.<br>• Practiced modular development to create reusable package components for enhanced code maintainability and scalability.",
+                            "tags": ["Service", "Apex", "OWD", "Outlook to Salesforce", "Copado", "Git", "Seismic and Medallia", "packages", "SSO", "Customer 360", "Mobile Application", "Security Controls"]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/Anthem-Logo.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "01/01/2020",
+                        "end": "04/01/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "** Sr Salesforce Developer / Admin **",
+                            "info": "Anthem Inc, Hyderabad, India",
+                            "text": "• Developed code to identify and merge case duplicates based on business requirements.<br>• Enhanced code for greater generality and modularity.<br>• Produced a Technical Design Document.<br>• Implemented Objects, Page Layouts, Record Types, Relationships, Validation Rules, Workflows, and Approval Processes.",
+                            "tags": ["Platform", "Sales", "Service", "Apex", "Data Loader", "Lightning Web Components", "Aura"]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/Farmers_Insurance_Group_logo.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "02/15/2017",
+                        "end": "12/01/2019"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Salesforce Technical Lead**",
+                            "info": "Farmers Insurance Group, Hyderabad, India",
+                            "text": "• Developed Customer 360 View using Vlocity (Omnistudio) to facilitate easy access to Agent, Agency, and Policy Information.<br>• Led multiple Salesforce implementation projects, integrating Client 360 features to provide unified customer experiences and drive business value.<br>• Implemented Avaya and Connects for CISCO Integration API to address business requirements for Customer Telephony (CTI).<br>• Developed Knowledge Article Management Page as per Business Requirements.",
+                            "tags": ["Apex", "Visualforce", "HTML", "SOQL", "Integration", "SOSL", "Lightning Web Components","Lightning Components Aura","Omnistudio","Knowledge Article","CTI"]
                         }
                     }
                 }

@@ -22,8 +22,8 @@
                     "locales": {
                         "en": {
                             "title": "**Programming Skills**",
-                            "text": "Proficient in Python, C++, Java, Bash, and SQL-server for diverse applications.",
-                            "tags": ["Python", "C++", "Java", "Bash", "SQL-server"]
+                            "text": "Proficient in HTML, CSS, JavaScript, Apex, Java, My SQL database.",
+                            "tags": ["HTML", "CSS", "JavaScript", "Apex", "Java", "My SQL database"]
                         }
                     }
                 },
@@ -35,9 +35,9 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "**Technical Skills**",
-                            "text": "Expertise in IAM, WAF, MFA, NIST, ISO27001, OWASP, SIEM, DLP, Entrust PKI, and Snowflake.",
-                            "tags": ["IAM", "WAF", "MFA", "NIST", "ISO27001", "OWASP", "Snowflake"]
+                            "title": "**Salesforce Technical Skills**",
+                            "text": "Expertise in Salesforce CRM, LWC, Aura, Apex classes, controllers and extensions, Visuaforce Page, SOQL, SOSL, Apex, Triggers, SOAP API, REST API, Sales Cloud, Service Cloud, Administration.",
+                            "tags": ["LWC", "Aura", "Apex classes", "Visuaforce", "SOQL", "SOSL", "Triggers", "SOAP API", "REST API","Sales Cloud", "Service Cloud", "Administration"]
                         }
                     }
                 },
@@ -52,161 +52,6 @@
                             "title": "**Soft Skills**",
                             "text": "Strong leadership, problem-solving, and effective communication skills.",
                             "tags": ["Leadership", "Problem-solving", "Communication"]
-                        }
-                    }
-                }
-            ]
-        },
-        {
-            "id": "security_tools",
-            "component": "ArticleList",
-            "config": {},
-            "locales": {
-                "en": {"title": "Security Tools"}
-            },
-            "items": [
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-shield-alt",
-                        "faColors": {"bg": "#FF5733", "fill": "#FFF"}
-                    },
-                    "value": 95,
-                    "dates": {"start": "01/01/2018"},
-                    "locales": {
-                        "en": {
-                            "title": "Burp Suite",
-                            "info": "Proficiency in web application security testing and penetration testing."
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-bug",
-                        "faColors": {"bg": "#E74C3C", "fill": "#FFF"}
-                    },
-                    "value": 90,
-                    "dates": {"start": "01/01/2018"},
-                    "locales": {
-                        "en": {
-                            "title": "Metasploit",
-                            "info": "Expertise in exploiting vulnerabilities and simulating attacks for testing."
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-eye",
-                        "faColors": {"bg": "#306998", "fill": "#EEE"}
-                    },
-                    "value": 85,
-                    "dates": {"start": "01/01/2019"},
-                    "locales": {
-                        "en": {
-                            "title": "Wireshark",
-                            "info": "In-depth knowledge of packet analysis and network troubleshooting."
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-network-wired",
-                        "faColors": {"bg": "#FFD700", "fill": "#111"}
-                    },
-                    "value": 90,
-                    "dates": {"start": "01/01/2020"},
-                    "locales": {
-                        "en": {
-                            "title": "Nessus",
-                            "info": "Specialized in vulnerability scanning and network risk assessment."
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-shield-virus",
-                        "faColors": {"bg": "#47A248", "fill": "#EEE"}
-                    },
-                    "value": 85,
-                    "dates": {"start": "01/01/2019"},
-                    "locales": {
-                        "en": {
-                            "title": "Sophos",
-                            "info": "Advanced threat detection and endpoint protection."
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-vpn",
-                        "faColors": {"bg": "#6A5ACD", "fill": "#FFF"}
-                    },
-                    "value": 85,
-                    "dates": {"start": "01/01/2020"},
-                    "locales": {
-                        "en": {
-                            "title": "Global Protect VPN",
-                            "info": "Streamlined secure remote access for IT teams."
-                        }
-                    }
-                }
-            ]
-        },
-        {
-            "id": "cloud_platforms",
-            "component": "ArticleList",
-            "config": {},
-            "locales": {
-                "en": {"title": "Cloud Platforms"}
-            },
-            "items": [
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-aws",
-                        "faColors": {"bg": "#FF9900", "fill": "#FFF"}
-                    },
-                    "value": 95,
-                    "dates": {"start": "01/01/2020"},
-                    "locales": {
-                        "en": {
-                            "title": "AWS",
-                            "info": "Extensive experience in cloud security, Route53, and IAM configurations."
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-microsoft",
-                        "faColors": {"bg": "#0078D7", "fill": "#FFF"}
-                    },
-                    "value": 85,
-                    "dates": {"start": "01/01/2020"},
-                    "locales": {
-                        "en": {
-                            "title": "Azure Entra-ID",
-                            "info": "Experience in managing Azure AD, MFA, and identity management solutions."
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-cloud",
-                        "faColors": {"bg": "#3D9970", "fill": "#FFF"}
-                    },
-                    "value": 80,
-                    "dates": {"start": "01/01/2020"},
-                    "locales": {
-                        "en": {
-                            "title": "MS365",
-                            "info": "Expertise in MS365 administration, compliance, and cloud collaboration tools."
                         }
                     }
                 }
@@ -233,38 +78,6 @@
                             "title": "English",
                             "info": "Native speaker with excellent communication and writing skills.",
                             "tags": ["Native"]
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": "images/flags/Egy.png",
-                        "fa": null,
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "value": null,
-                    "dates": {"start": null},
-                    "locales": {
-                        "en": {
-                            "title": "Telugu",
-                            "info": "Fluent in both spoken and written Telugu.",
-                            "tags": ["Fluent"]
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": "images/flags/Egy.png",
-                        "fa": null,
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "value": null,
-                    "dates": {"start": null},
-                    "locales": {
-                        "en": {
-                            "title": "Hindi",
-                            "info": "Fluent in both spoken and written Hindi.",
-                            "tags": ["Fluent"]
                         }
                     }
                 }
