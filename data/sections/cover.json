@@ -77,7 +77,7 @@
             "items": [
                 {
                     "icon": {
-                        "img": "images/svg/sblack.png",
+                        "img": "images/svg/logo.svg",
                         "fa": null,
                         "faColors": {"bg": null, "fill": null}
                     },
