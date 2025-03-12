@@ -18,9 +18,9 @@
 
         "locales": {
         "en": {"role": "Salesforce Developer"},
-        "es": {"role": "Analista de Ciberseguridad"},
-        "fr": {"role": "Analyste en Cybersécurité"},
-        "ko": {"role": "사이버 보안 분석가"}
+        "es": {"role": "Desarrollador de Salesforce"},
+        "fr": {"role": "Développeur Salesforce"},
+        "ko": {"role": "세일즈포스 개발자"}
         }
 
     },
@@ -31,9 +31,9 @@
 
         "locales": {
         "en": {"message": "Open for Contract, Remote or Hybrid roles!"},
-        "es": {"message": "¡Disponible para roles de tiempo completo, remotos, híbridos o presenciales!"},
-        "fr": {"message": "Ouvert aux postes à temps plein en télétravail, hybride ou sur site !"},
-        "ko": {"message": "원격, 하이브리드, 또는 현장 근무의 정규직 역할 가능합니다!"}
+        "es": {"message": "¡Abierto para roles contractuales, remotos o híbridos!"},
+        "fr": {"message": "Ouvert aux postes contractuels, à distance ou hybrides !"},
+        "ko": {"message": "계약, 원격 또는 혼합형 역할에 열려 있습니다!"}
     }
 
     },
@@ -80,8 +80,8 @@
     ],
 
     "emailjs": {
-        "publicKey": "oajv2lu1ZFJwHJguV",
-        "serviceId": "service_q3c7jyr",
-        "templateId": "template_tbk0i75"
+        "publicKey": "yQWr1MvwRw-zgFFjW",
+        "serviceId": "service_wf9onc8",
+        "templateId": "template_ohmdrvo"
     }
 }
