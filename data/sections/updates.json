@@ -50,19 +50,7 @@
                             "text": "Achieved AgentBlazer Innovator Badge."
                         }
                     }
-                }
-            ]
-        },
-        {
-            "id": "recent_updates",
-            "component": "ArticleThread",
-            "config": {
-                "alignItems": "center" 
-            },
-            "locales": {
-                "en": { "title": "Recent **Updates**" }
-            },
-            "items": [
+                },
                 {
                     "dates": {
                         "start": "03/01/2025",
