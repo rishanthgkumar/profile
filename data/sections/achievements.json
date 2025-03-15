@@ -329,6 +329,19 @@
                     },
                     "locales": {
                         "en": {
+                            "title": "Salesfocrce AgentBlazer",
+                            "info": "Salesforce AgentBlazer",
+                            "text": "Achieved AgentBlazer Innovator Badge."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": null,
+                        "end": null
+                    },
+                    "locales": {
+                        "en": {
                             "title": "Salesfocrce Ranger",
                             "info": "Salesforce Ranger",
                             "text": "Recognized as a 2X Salesforce Ranger with 230 Badges and a Salesforce Lightning Champion."
