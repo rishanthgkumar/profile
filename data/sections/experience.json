@@ -30,18 +30,18 @@
             "items": [
                 {
                     "icon": {
-                        "img": "images/pictures/Albertsons.png",
+                        "img": "images/pictures/saxonglobalinc_logo.jpeg",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "07/03/2024",
-                        "end": "present"
+                        "start": "26/04/2024",
+                        "end": "Present"
                     },
                     "locales": {
                         "en": {
-                            "title": "**Salesforce Development Lead/ Solution Designer**",
-                            "info": "Albertsons Companies Inc, Plano, TX",
+                            "title": "**Software Engineer**",
+                            "info": "Saxon Global Inc, TX",
                             "text": "• Created UI pages using Lightning Web Components (LWC) based on business requirements. Worked extensively with Lightning Web Components, utilizing Decorators, Wire service, Lightning Data Service, Event handling, Lightning Design System, Navigation Service, Salesforce Field Service Lightning, and Einstein Bots.<br>• Implemented SoftPhone Integration outside the Salesforce System using Google Contact Center.<br>• Integrated third-party customer support systems into salesforce using RESTful APIs to centralize service requests and streamline operations.<br>• Implemented the Snowflake integration with the Analytics Studio to pass the data to downstream systems and archiving purposes.",
                             "tags": ["Service", "API Integrations", "Lightning Web Components", "Aura Components", "Git", "Custom-Objects", "Omni-channel", "Bulk API", "SFDX", "Email-to-Case", "Softphone Integration"]
                         }
